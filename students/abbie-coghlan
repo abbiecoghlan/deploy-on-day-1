@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+!DOCTYPE html>
 <html lang="en-US">
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" >
@@ -147,23 +147,23 @@
               <!-- Begin Student 3 -->
               <li class="home-blog-post">
                 <div class="blog-thumb">
-                  <a href="students/abbie-coghlan.html">
-                    <img width="304" height="304" class="prof-image" src="img/students/abbie-profile-picture.jpg" class="attachment-blog-thumb wp-post-image" alt="student name">
+                  <a href="students/student_name.html">
+                    <img width="304" height="304" class="prof-image" src="img/students/student_name_index_profile.jpg" class="attachment-blog-thumb wp-post-image" alt="student name">
                   </a>
                 </div>
 
                 <div class="blog-title">
                   <div class="big-comment">
                     <h3>
-                      <a href="students/abbie-coghlan.html">Abbie Coghlan</a>
+                      <a href="students/student_name.html">Student Name</a>
                     </h3>
                   </div>
-                  <p class="home-blog-post-meta">Prying my best</p>
+                  <p class="home-blog-post-meta">Tag Line</p>
                 </div>
                 <div class="clear"></div>
 
                 <div class="excerpt">
-                  <p>Hi, I’m Abbie! I’m a former speech and language pathologist who fell in love with coding. I’m currently a student in Flatiron’s immersive software engineering program. I live in Chicago with my dog, where I love to hang out with my family, read, and eat pizza. </p>
+                  <p>Excerpt.</p>
                 </div>
                 <div class="clear"></div>
               </li>
